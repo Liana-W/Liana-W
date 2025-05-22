@@ -6,7 +6,7 @@
      - Designed and built a mini SOC and honeynet in Azure, integrating log sources into Microsoft Sentinel to monitor and secure the environment. Measured security metrics before and after applying controls, significantly reducing up to 70% of security events and incidents.
   - [Active Directory](https:)
      - Created an integrated environment with VMware, featuring a Windows Server 2019 Domain Controller and Active Directory. Populated AD with 1000 fictional users and integrated Windows 10 Pro, Ubuntu 22.04.4, and Ubuntu 23.10.1 VMs for centralized management.
-  - [Azure-VM-Prep]()
+  - [Azure-VM-Prep](https://github.com/Liana-W/Azure-VM-Prep)
      - Set up virtual machines in Microsoft Azure to create a honeynet. Configured VMs with open inbound security rules to attract and observe potential attackers in a controlled environment.
 
 <h2> 🏆 Certifications and Education</h2>
