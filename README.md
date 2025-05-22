@@ -1,5 +1,8 @@
 <h1> Hi, I'm Liana! 👋
 
+<h4>Highly motivated IT Professional with a BS in IT Management from Western Governors University. Leveraging technical, analytical, and collaborative skills to drive innovation. Holding CompTIA Security+ and Linux certifications, with expertise in: Technical analysis and problem-solving, cross-functional collaboration, solution implementation and maintenance, continuous learning and industry trend analysis. Seeking challenging IT opportunities across various sectors, including Cybersecurity, Networking, IT Management, and more.</h4>
+
+
 <h2> 👨‍💻 Cybersecurity Projects</h2>
 
   - [Azure / Cloud Project](https://github.com/Liana-W/Azure-SOC-Honeynet.git)
